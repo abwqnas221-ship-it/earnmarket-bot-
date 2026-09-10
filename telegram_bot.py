@@ -5,7 +5,8 @@ import time
 import string
 
 # 🚀 تم وضع التوكين الخاص بك من BotFather بنجاح
-BOT_TOKEN = '8918958634:AAFN9FGotOInT2MmD3OE9mnAIoZDmacXBYY'
+BOT_TOKEN = '8918958634:AAFN9FGotOlNt2MmD3OE9mnAIoZDmacXBYY'
+
 
 # 🌐 رابط موقعك المباشر المستضاف على GitHub Pages
 WEB_APP_URL = 'https://abwqnas221-ship-it.github.io/earnmarket-app/'
